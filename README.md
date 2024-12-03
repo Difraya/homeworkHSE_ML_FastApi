@@ -23,4 +23,4 @@
 - на вход подается файл csv, на выходе так же csv файл с +1 столбцом(предсказанная цена)
 ![request2](./screenshots/reques2.PNG)
 - В качестве файла я загружала [тестовый датафрейм](screenshots/car.csv) сохраненный в csv
-- На выходе получила этот [файл](screenshots/prediction_price(1).csv)
+- На выходе получила этот [файл](screenshots/prediction_price_full.csv)
